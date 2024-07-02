@@ -7,9 +7,13 @@ Environment preparation: (Python 3.8 + PyTorch 1.9.1 + Torchvision 0.10.1 + CUDA
 
 ## Other
 Here are the links to the methods compared in the article:
+
 AResNet: https://github.com/dongfangxiaotian/CWRU-AttentionMechanism-ResNet
+
 QCNN: https://github.com/asdvfghg/QCNN_for_bearing_diagnosis
+
 DCA-BiGRU:https://github.com/liguge/Fault-diagnosis-for-small-samples-based-on-attention-mechanism
+
 WDCNN: https://github.com/AaronCosmos/wdcnn_bearning_fault_diagnosis
 
 
